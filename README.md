@@ -1,1 +1,1 @@
-Live link - https://shiftamowla.github.io/NuFruit-Template/
+Live link - [NuFruit-Template](https://shiftamowla.github.io/NuFruit-Template/)
